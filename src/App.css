@@ -1,0 +1,105 @@
+body {
+  background-color: #343a40;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+
+.form-control:focus {
+  border-color: #a3c4bc;
+  box-shadow: 0 0 0 0.1rem #8ebdb1;
+}
+
+.titleSize {
+  position: relative;
+  bottom: 2rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 4.1rem;
+}
+
+.titleSizeForPhone {
+  font-family: "Nunito", sans-serif;
+  font-size: 2.21rem;
+}
+
+.paymentOutputDesktop {
+  position: relative;
+  font-size: 2.5rem;
+  position: relative;
+  margin-bottom: 2rem;
+  left: 1rem;
+  bottom: 2.7rem;
+}
+
+.moneySignDesktop {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  position: relative;
+  top: 0.5rem;
+}
+
+.moneySignMedium {
+  font-size: 2rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  position: relative;
+  top: 0.7rem;
+}
+
+.paymentOutputMedium {
+  position: relative;
+  font-size: 3rem;
+
+  position: relative;
+  margin-bottom: 2rem;
+  left: 1.5rem;
+  bottom: 3.27rem;
+}
+
+.moneySignSmall {
+  font-size: 2rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  position: relative;
+}
+
+.paymentOutputSmall {
+  position: relative;
+  font-size: 2.7rem;
+
+  position: relative;
+  margin-bottom: 2rem;
+  left: 1.4rem;
+  bottom: 3rem;
+}
+
+.paymentOutputDivSmall {
+  display: flex;
+  width: 20.1rem;
+  padding: 0rem;
+  position: absolute;
+  left: -1rem;
+  top: 30.7rem;
+  margin-top: 2rem;
+}
+
+.dottedLineMedium {
+  border-bottom-width: 0.6rem;
+  border-bottom-color: #394046;
+  border-style: none none dotted;
+  margin: auto;
+  width: 13.41%;
+  position: relative;
+  bottom: 8.1rem;
+}
+
+.tdWidth {
+  width: 25%;
+  position: relative;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+}
